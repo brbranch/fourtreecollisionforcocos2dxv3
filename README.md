@@ -1,0 +1,2 @@
+# fourtreecollisionforcocos2dxv3
+cocos2d-xのv3用の4分木空間分割の衝突判定モジュール。
