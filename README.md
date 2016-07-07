@@ -115,4 +115,4 @@ cocos2d::Nodeの衝突判定をある程度効率的に行うことができる�
 <https://www.youtube.com/watch?v=6ZHY832taZU>
 
 ## License
-MIT
+This software is released under the MIT License, see LICENSE.txt.
